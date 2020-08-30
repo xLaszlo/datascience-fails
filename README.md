@@ -112,8 +112,13 @@ Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](http
 - Lesson 3: Completeness of data
 
 **Why Data Science Projects Fail** [(link)](https://blog.dataiku.com/why-data-science-projects-fail)
-- Need to read this
-
+- Real-Time, Dynamic Data
+- Workflow Reusability Over Time
+- Collaboration - Or Lack Thereof
+- Skill Set Disconnect
+- Operationalization
+- Growth
+ 
 **Data Science: 4 Reasons Why Most Are Failing to Deliver** [(link)](https://www.kdnuggets.com/2018/05/data-science-4-reasons-failing-deliver.html)
 - Silos of knowledge
 - Friction in model deployment
