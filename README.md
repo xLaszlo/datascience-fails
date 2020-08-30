@@ -5,6 +5,17 @@ If you have an article you think should be added, please suggest it with its lin
 
 Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](https://www.linkedin.com/in/laszlosragner/) or subscribe to my [newsletter](https://laszlo.substack.com/). 
 
+**NewVantage Partners: Big Data Executive Survey 2017** [(link, pdf)](https://newvantage.com/wp-content/uploads/2017/01/Big-Data-Executive-Survey-2017-Executive-Summary.pdf)
+- Cultural impediments to Big Data business adoption.
+    - Insufficient organizational alignment
+    - Lack of middle management adoption and understanding
+    - Business resistance or lack of understanding
+    - Lack of a coherent data strategy
+    - Technology resistance or lack of understanding
+    - Inability to create a shared vision
+    - Lack of data governance policies and practices
+
+
 **Five Reasons Why Your Data Science Project is Likely to Fail** [(link)](https://webcache.googleusercontent.com/search?q=cache:MGJexLjWpiQJ:https://www.eweek.com/big-data-and-analytics/five-reasons-why-your-data-science-project-is-likely-to-fail+&cd=2&hl=en&ct=clnk&gl=uk)
 - Lack of Resources to Execute Data Science Projects
 - Long Turnaround Time and Upfront Effort Without Visibility into the Potential Value
