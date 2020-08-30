@@ -1,6 +1,8 @@
 # datascience-fails
 Collection of articles listing reasons why data science projects fail.
 
+If you have an article, please suggest it with the link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
+
 Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](https://www.linkedin.com/in/laszlosragner/) or subscribe to my [newsletter](https://laszlo.substack.com/). 
 
 **Five Reasons Why Your Data Science Project is Likely to Fail** [(link)](https://webcache.googleusercontent.com/search?q=cache:MGJexLjWpiQJ:https://www.eweek.com/big-data-and-analytics/five-reasons-why-your-data-science-project-is-likely-to-fail+&cd=2&hl=en&ct=clnk&gl=uk)
