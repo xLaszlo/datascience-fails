@@ -5,6 +5,86 @@ If you have an article you think should be added, please suggest it with its lin
 
 Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](https://www.linkedin.com/in/laszlosragner/) or subscribe to my [newsletter](https://laszlo.substack.com/). 
 
+**The state of data quality in 2020** [(link)](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
+- What are the primary data quality issues your organisation faces?
+    - Poorly labelled data
+    - Unlabeled data
+    - Unstructured data that is difficult to organise
+    - Too many dat sources and inconsistent data (i.e. data integration issues)
+    - Poor data quality controls at data entry
+    - Poor data quality from third-party sources
+    - Too few resources available to address data quality issues
+    - Biased data (eg. non-representational datasets or samples)
+    - Needed data not collected
+    - Disorganized data stores and lack of metadata
+    
+
+**AI adoption in the enterprise 2020** [(link)](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
+- Common challenges to AI adoption
+    - Company culture does not yet recognize needs for AI
+    - Difficulties in identifying appropriate business use cases
+    - Lack of skilled people/difficulty hiring the required roles
+    - Lack of data or data quality issues
+    - Technical infrastructure challenges
+    - Legal concerns, risks or compliance issues
+    - Model validation
+    - Efficient tuning of hyperparameters
+    - Workflow reproducability
+- What are the biggest skills gaps within your organisation, related to machine learning and AI adoption?
+    - ML modelers and data scientists
+    - Understanding and maintaining a set of business use cases
+    - Data engineering
+    - Compute infrastructure
+- What kinds of risks do you check for during ML model building and deployment?
+    - Fairness, bias, ethics
+    - Model degradation
+    - Model interpretability and transparency
+    - Privacy
+    - Security vulnerabilities
+    - Safety and reliability
+    - Unexpected outcomes/predictions
+    - Other compliance
+    - Reproducibility
+   
+
+**Move Fast and Break Things? The AI Governance Dilemma** [(link)](https://hackernoon.com/move-fast-and-break-things-the-ai-governance-dilemma-dsq32ix)
+- The level of quality required of predictions varies with use-case.
+- Outliers
+- Concept Drift
+- Bias
+- Privacy
+- DevOps for Machine Learning is Special
+- Reproducibility
+- Monitoring
+- Deployments
+- Explainability
+
+
+**9 machine learning myths** [(link)](https://www.cio.com/article/3263776/machine-learning-myths.html)
+- Myth: Machine learning is AI
+- Myth: All data is useful
+- Myth: You always need a lot of data
+- Myth: Anyone can build a machine learning system
+- Myth: All patterns in the data are useful
+- Myth: Reinforcement learning is ready to use
+- Myth: Machine learning is unbiased
+- Myth: Machine learning is only used for good
+- Myth: Machine learning will replace people
+
+
+**10 signs you’re ready for AI — but might not succeed** [(link)](https://www.cio.com/article/3219710/10-signs-your-it-organizaiton-is-ready-for-artificial-intelligence.html)
+- You have plenty of data
+- You have enough data scientists
+- You track or acquire the factors that matter
+- You have ways to clean and transform the data
+- You've already done statistical analyses on the data
+- You test many approaches to find the best models
+- You have the computing capacity to train deep learning models
+- Your ML models outperform your statistical models
+- You are able to deploy predictive models
+- You are able to update your models periodically
+
+
 **AI’s Biggest Risk Factor is Big Data Itself** [(link)](https://www.lexalytics.com/lexablog/ai-biggest-risk-factor-big-data)
 - AI’s biggest risk factor: Data gone wrong
 - From **AI’s biggest risk factor: Data gone wrong** [(link)](https://www.idginsiderpro.com/article/3254693/ais-biggest-risk-factor-data-gone-wrong.html)
