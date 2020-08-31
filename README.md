@@ -5,6 +5,22 @@ If you have an article you think should be added, please suggest it with its lin
 
 Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](https://www.linkedin.com/in/laszlosragner/) or subscribe to my [newsletter](https://laszlo.substack.com/). 
 
+
+**6 myths about big data** [(link)](https://www.techrepublic.com/article/6-myths-about-big-data/)
+- Big data means 'a lot' of data
+- The data needs to be clean
+- Wait to make your data perfect
+- The data lake
+- Analyzing data is expensive
+- Machine algorithms will replace human analysts
+
+
+**How your executives will screw up your next analytics project** [(link)](https://www.techrepublic.com/article/how-your-executives-will-screw-up-your-next-analytics-project/)
+- From: **The Reason So Many Analytics Efforts Fall Short** [(link)](https://hbr.org/2016/08/the-reason-so-many-analytics-efforts-fall-short)
+    - Since there was no natural owner of analytics within the traditional organizational structure, multiple executives competed hard to own the new capability. 
+    - With the exception of the “winner,” a feeling of vulnerability settled over the other executive team members when the analysis conducted by the analytics group revealed inefficiencies and missed opportunities in their respective functions.
+
+
 **The state of data quality in 2020** [(link)](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
 - What are the primary data quality issues your organisation faces?
     - Poorly labelled data
@@ -103,7 +119,8 @@ Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](http
     
 
 **Forrester Predictions 2018** [(link)](https://go.forrester.com/2018-predictions/?utm_campaign=predictions_2018)
-- Later
+- 75% of early AI projects will underwhelm due to operational oversights. 
+- Benefits are too narrow and short-lived.
 
 
 **How To Underwhelm With Artificial Intelligence** [(link)](https://www.forbes.com/sites/forbestechcouncil/2018/03/20/how-to-underwhelm-with-artificial-intelligence/)
