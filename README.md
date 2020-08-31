@@ -5,7 +5,7 @@ If you have an article you think should be added, please suggest it with its lin
 
 Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](https://www.linkedin.com/in/laszlosragner/) or subscribe to my [newsletter](https://laszlo.substack.com/). 
 
-**AI’s Biggest Risk Factor is Big Data Itself** [(link)[https://www.lexalytics.com/lexablog/ai-biggest-risk-factor-big-data]
+**AI’s Biggest Risk Factor is Big Data Itself** [(link)](https://www.lexalytics.com/lexablog/ai-biggest-risk-factor-big-data)
 - AI’s biggest risk factor: Data gone wrong
 - From **AI’s biggest risk factor: Data gone wrong** [(link)](https://www.idginsiderpro.com/article/3254693/ais-biggest-risk-factor-data-gone-wrong.html)
     - Several recent research studies demonstrated that popular data sets used to train image recognition AI included gender biases.
@@ -13,7 +13,7 @@ Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](http
     - just because a company has access to information, doesn't mean that it can use it any way it wants
     - The rise of fake data    
 - More legal and compliance risks from AI
-- From **Risky AI business: Navigating regulatory and legal dangers to come** [(link, webarchive)[http://web.archive.org/web/20190312112543/http://www.cio.in/feature/risky-ai-business-navigating-regulatory-and-legal-dangers-come]
+- From **Risky AI business: Navigating regulatory and legal dangers to come** [(link, webarchive)](http://web.archive.org/web/20190312112543/http://www.cio.in/feature/risky-ai-business-navigating-regulatory-and-legal-dangers-come)
     - AI presents a wide range of hidden dangers for companies, especially in areas such as regulatory compliance, law, privacy and ethics.
     - “Deploying AI in any highly regulated industry may create regulatory compliance problems.”
     - “If an algorithm malfunctions, or even functions properly but in the wrong context, for example, there is a risk of significant losses to a trading company or investors,”
