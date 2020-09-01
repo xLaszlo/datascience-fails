@@ -3,7 +3,26 @@ Collection of articles listing reasons why data science projects fail.
 
 If you have an article you think should be added, please suggest it with its link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
 
-Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo), on [LinkedIn](https://www.linkedin.com/in/laszlosragner/) or subscribe to my [newsletter](https://laszlo.substack.com/). 
+Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo) for updates.
+
+
+**What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)** [(link, youtube)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
+- ML Super heroes (reliance on DSes doing everything)
+- CHACHE (change anything, change everything)
+- Black box is hard
+- Lack of ML lifecycle management
+- Lack of data validation
+- Anti patterns: Lack of continuous monitoring
+- Anti patterns: Training-Serving skew
+- Anti pattern: Not knowing the freshness requirements
+    - how frequently the model should run
+    - how fast the model should respond
+
+
+**A Brief Guide to Running ML Systems in Production** [(link)](https://www.oreilly.com/content/a-brief-guide-to-running-ml-systems-in-production/ )
+- Model is not tested with representative data
+- Model is not compatible with the API in production
+- Model is not validated against real data
 
 
 **6 myths about big data** [(link)](https://www.techrepublic.com/article/6-myths-about-big-data/)
