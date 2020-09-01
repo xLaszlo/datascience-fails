@@ -3,7 +3,7 @@ Collection of articles listing reasons why data science projects fail.
 
 If you have an article you think should be added, please suggest it with its link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
 
-Follow me on Twitter [@xLaszlo](https://twitter.com/xLaszlo) for updates.
+Follow me on [Twitter](https://twitter.com/xLaszlo) for updates.
 
 
 **What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)** [(link, youtube)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
