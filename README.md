@@ -5,6 +5,24 @@ If you have an article that should be added, please suggest it with its link in 
 
 Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 
+**geckoboard's Data fallacies** [(link)](https://www.geckoboard.com/best-practice/statistical-fallacies/)
+- Cherry Picking
+- Data Dredging
+- Survivorship Bias
+- Cobra Effect
+- False Causality
+- Gerrymandering
+- Sampling Bias
+- Gambler's Fallacy
+- Regression Toward the Mean
+- Hawthorne Effect
+- Simpson's Paradox
+- McNamara Fallacy
+- Overfitting
+- Publication Bias
+- Danger of Summary Metrics
+
+
 **Three Risks in Building Machine Learning Systems** [(link)](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html)
 - Poor Problem-Solution Alignment
 - Incurring Excessive Costs
