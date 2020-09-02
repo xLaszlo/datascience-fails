@@ -1,9 +1,58 @@
 # datascience-fails
 Collection of articles listing reasons why data science projects fail.
 
-If you have an article you think should be added, please suggest it with its link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
+If you have an article that should be added, please suggest it with its link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
 
-Follow me on [Twitter](https://twitter.com/xLaszlo) for updates.
+Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
+
+**Three Risks in Building Machine Learning Systems** [(link)](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html)
+- Poor Problem-Solution Alignment
+- Incurring Excessive Costs
+- Unexpected Behavior and Unintended Consequences
+
+
+**AI Engineering: 11 Foundational Practices** [(link, pdf)](https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_634648.pdf)
+- Ensure you have a problem that both can and should be solved by AI.
+- Include highly integrated subject matter experts, data scientists, and data architects in your software engineering teams.
+- Take your data seriously to prevent it from consuming your project. 
+- Choose algorithms based on what you need your model to do, not on their popularity. 
+- Secure AI systems by applying highly integrated monitoring and mitigation strategies. 
+- Define checkpoints to account for the potential needs of recovery, traceability, and decision justification.
+- Incorporate user experience and interaction to constantly validate and evolve models and architecture. 
+- Design for the interpretation of the inherent ambiguity in the output.
+- Implement loosely coupled solutions that can be extended or replaced to adapt to ruthless and inevitable data and model changes and algorithm innovations. 
+- Commit sufficient time and expertise for constant and enduring change over the life of the system.
+- Treat ethics as both a software design consideration and a policy concern. 
+
+
+**Machine Learning: The High-Interest Credit Card of Technical Debt** [(link, pdf)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+- Complex Models Erode Boundaries
+    - Entanglement
+    - Hidden Feedback Loops
+    - Undeclared Consumers
+- Data Dependencies Cost More than Code Dependencies
+    - Unstable Data Dependencies
+    - Underutilized Data Dependencies
+    - Static Analysis of Data Dependencies
+    - Correction Cascades
+- System-level Spaghetti
+    - Glue Code
+    - Pipeline Jungles
+    - Dead Experimental Codepaths
+    - Configuration Debt
+- Dealing with Changes in the External World
+    - Fixed Thresholds in Dynamic Systems
+    - When Correlations No Longer Correlate
+    - Monitoring and Testing
+
+
+**Managing the Risks of Adopting AI Engineering** [(link)](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
+- ill-defined problem statement
+- lack of expertise
+- model-system-data disconnection
+- unrealistic expectations
+- data challenges
+- lack of verifiability
 
 
 **What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)** [(link, youtube)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
