@@ -4,6 +4,7 @@ Collection of articles listing reasons why data science projects fail.
 If you have an article that should be added, please suggest it with its link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
 
 Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
+<br><br>
 
 **geckoboard's Data fallacies** [(link)](https://www.geckoboard.com/best-practice/statistical-fallacies/)
 - Cherry Picking
@@ -21,13 +22,13 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Overfitting
 - Publication Bias
 - Danger of Summary Metrics
-
+<br><br>
 
 **Three Risks in Building Machine Learning Systems** [(link)](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html)
 - Poor Problem-Solution Alignment
 - Incurring Excessive Costs
 - Unexpected Behavior and Unintended Consequences
-
+<br><br>
 
 **AI Engineering: 11 Foundational Practices** [(link, pdf)](https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_634648.pdf)
 - Ensure you have a problem that both can and should be solved by AI.
@@ -41,7 +42,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Implement loosely coupled solutions that can be extended or replaced to adapt to ruthless and inevitable data and model changes and algorithm innovations. 
 - Commit sufficient time and expertise for constant and enduring change over the life of the system.
 - Treat ethics as both a software design consideration and a policy concern. 
-
+<br><br>
 
 **Machine Learning: The High-Interest Credit Card of Technical Debt** [(link, pdf)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 - Complex Models Erode Boundaries
@@ -62,7 +63,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Fixed Thresholds in Dynamic Systems
     - When Correlations No Longer Correlate
     - Monitoring and Testing
-
+<br><br>
 
 **Managing the Risks of Adopting AI Engineering** [(link)](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
 - ill-defined problem statement
@@ -71,7 +72,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - unrealistic expectations
 - data challenges
 - lack of verifiability
-
+<br><br>
 
 **What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)** [(link, youtube)](https://www.youtube.com/watch?v=_jnhXzY1HCw)
 - ML Super heroes (reliance on DSes doing everything)
@@ -84,13 +85,13 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Anti pattern: Not knowing the freshness requirements
     - how frequently the model should run
     - how fast the model should respond
-
+<br><br>
 
 **A Brief Guide to Running ML Systems in Production** [(link)](https://www.oreilly.com/content/a-brief-guide-to-running-ml-systems-in-production/ )
 - Model is not tested with representative data
 - Model is not compatible with the API in production
 - Model is not validated against real data
-
+<br><br><br><br>
 
 **6 myths about big data** [(link)](https://www.techrepublic.com/article/6-myths-about-big-data/)
 - Big data means 'a lot' of data
@@ -99,13 +100,13 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - The data lake
 - Analyzing data is expensive
 - Machine algorithms will replace human analysts
-
+<br><br>
 
 **How your executives will screw up your next analytics project** [(link)](https://www.techrepublic.com/article/how-your-executives-will-screw-up-your-next-analytics-project/)
 - From: **The Reason So Many Analytics Efforts Fall Short** [(link)](https://hbr.org/2016/08/the-reason-so-many-analytics-efforts-fall-short)
     - Since there was no natural owner of analytics within the traditional organizational structure, multiple executives competed hard to own the new capability. 
     - With the exception of the “winner,” a feeling of vulnerability settled over the other executive team members when the analysis conducted by the analytics group revealed inefficiencies and missed opportunities in their respective functions.
-
+<br><br>
 
 **The state of data quality in 2020** [(link)](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
 - What are the primary data quality issues your organisation faces?
@@ -119,7 +120,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Biased data (eg. non-representational datasets or samples)
     - Needed data not collected
     - Disorganized data stores and lack of metadata
-    
+<br><br>    
 
 **AI adoption in the enterprise 2020** [(link)](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
 - Common challenges to AI adoption
@@ -147,7 +148,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Unexpected outcomes/predictions
     - Other compliance
     - Reproducibility
-   
+<br><br>   
 
 **Move Fast and Break Things? The AI Governance Dilemma** [(link)](https://hackernoon.com/move-fast-and-break-things-the-ai-governance-dilemma-dsq32ix)
 - The level of quality required of predictions varies with use-case.
@@ -160,7 +161,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Monitoring
 - Deployments
 - Explainability
-
+<br><br>
 
 **9 machine learning myths** [(link)](https://www.cio.com/article/3263776/machine-learning-myths.html)
 - Myth: Machine learning is AI
@@ -172,7 +173,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Myth: Machine learning is unbiased
 - Myth: Machine learning is only used for good
 - Myth: Machine learning will replace people
-
+<br><br>
 
 **10 signs you’re ready for AI — but might not succeed** [(link)](https://www.cio.com/article/3219710/10-signs-your-it-organizaiton-is-ready-for-artificial-intelligence.html)
 - You have plenty of data
@@ -185,7 +186,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Your ML models outperform your statistical models
 - You are able to deploy predictive models
 - You are able to update your models periodically
-
+<br><br>
 
 **AI’s Biggest Risk Factor is Big Data Itself** [(link)](https://www.lexalytics.com/lexablog/ai-biggest-risk-factor-big-data)
 - AI’s biggest risk factor: Data gone wrong
@@ -202,29 +203,29 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Unlike a physician, who might have the value of other contextual information about a patient, or even intuition developed over years of practice, the results from AI and machine learning programs can be narrow and incomplete.
     - “We should not trust machines with decisions when the costs of error are too high,”
     - “The main issue is who will be held responsible if the machine reaches the ‘wrong’ conclusion or recommends a course of action that proves harmful,”
-    
+<br><br>    
 
 **Forrester Predictions 2018** [(link)](https://go.forrester.com/2018-predictions/?utm_campaign=predictions_2018)
 - 75% of early AI projects will underwhelm due to operational oversights. 
 - Benefits are too narrow and short-lived.
-
+<br><br>
 
 **How To Underwhelm With Artificial Intelligence** [(link)](https://www.forbes.com/sites/forbestechcouncil/2018/03/20/how-to-underwhelm-with-artificial-intelligence/)
 - Championing AI As A Miracle Cure
 - Leaping Into High-Risk Domains
 - Blissfully Ignoring Your Biases
-
+<br><br>
 
 **A Guide to Underwhelming with AI** [(link)](https://www.lexalytics.com/lexablog/a-guide-to-underwhelming-with-ai)
 - 75% of early AI projects will underwhelm due to operational oversights. (twitter)](https://twitter.com/forrester/status/940910467274477568)
-
+<br><br>
 
 **AI is not set and forget** [(link)](https://www.kdnuggets.com/2018/05/ai-not-set-forget.html)
 - neglect it too long and you’re in trouble
 - Unfortunately, failing to maintain your AI will destroy the project.
 - AIs need feedback to let them know when they’re wandering off topic
 - having a human at hand to audit potential issues is essential.
-
+<br><br>
 
 **How to Fail with Artificial Intelligence** [(link)](https://medium.com/money-talks-the-official-abe-blog/how-to-fail-with-artificial-intelligence-b3c4b1966bb3)
 - Cut R&D spending to save money
@@ -236,7 +237,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Get caught in a never-ending development loop
 - Assume your customers are like developers
 - Assume the AI hype is enough to succeed
-
+<br><br>
 
 **Top 5 AI Failures From 2017 Which Prove That ‘Perfect AI’ Is Still A Dream** [(link)](https://analyticsindiamag.com/top-5-ai-failures-from-2017-which-prove-that-perfect-ai-is-still-a-dream/)
 - When Facebook’s Chatbots Developed Their Own Language
@@ -249,7 +250,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Rare edge case
 - When Alexa And Amazon Echo Goofed Up
     - Malfunction (This might not even AI)
-
+<br><br>
 
 **Stories of AI Failure and How to Avoid Similar AI Fails** [(link)](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020)
 - Fail: IBM’s “Watson for Oncology” Cancelled After $62 million and Unsafe Treatment Recommendations
@@ -271,7 +272,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Fail: Amazon’s Facial Recognition Software Matches 28 U.S. Congresspeople with Criminal Mugshots
     - Biased dataset
     - “Nearly 40 percent of Rekognition’s false matches in our test were of people of color, even though they make up only 20 percent of Congress.”
-    
+<br><br>    
 
 **NewVantage Partners: Big Data Executive Survey 2017** [(link, pdf)](https://newvantage.com/wp-content/uploads/2017/01/Big-Data-Executive-Survey-2017-Executive-Summary.pdf)
 - Cultural impediments to Big Data business adoption.
@@ -282,7 +283,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Technology resistance or lack of understanding
     - Inability to create a shared vision
     - Lack of data governance policies and practices
-
+<br><br>
 
 **Five Reasons Why Your Data Science Project is Likely to Fail** [(link)](https://webcache.googleusercontent.com/search?q=cache:MGJexLjWpiQJ:https://www.eweek.com/big-data-and-analytics/five-reasons-why-your-data-science-project-is-likely-to-fail+&cd=2&hl=en&ct=clnk&gl=uk)
 - Lack of Resources to Execute Data Science Projects
@@ -291,7 +292,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Lack of Architectural Consideration for Production, Operationalization
 - Heavy Dependency on Skills, Experiences of Particular Individuals
 - End-to-end Data Science Automation is a Solution
-
+<br><br>
 
 **6 Reasons Why Data Science Projects Fail** [(link)](https://medium.com/@ODSC/6-reasons-why-data-science-projects-fail-6240bf9326f6)
 - Asking the wrong questions
@@ -300,7 +301,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Lack of the right data science “team”
 - Overly complex models 
 - Over-promising
-
+<br><br>
 
 **Why Data Science Succeeds or Fails** [(link)](https://towardsdatascience.com/why-data-science-succeeds-or-fails-c24edd2d2f9)
 - Team Diversity — Cross-Functional Teams
@@ -315,7 +316,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Does it work? (Does it add value - Laszlo)
 - Will they use it?
 - Ensembles are Key
-
+<br><br>
 
 **Why data science projects fail revisited** [(link)](https://towardsdatascience.com/why-data-science-projects-fail-revisited-85fe242c3931)
 - Many projects are not iterated quickly enough and are then suddenly shut down or quietly declared as completed
@@ -324,7 +325,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Focus on Augmenting People, Not Replacing Them
     - Plan for Knowledge Transfer
     - Choose Transparent AI Solutions
-    
+<br><br>    
     
 **Why Most AI Projects Fail** [(link)](https://www.datarobot.com/blog/why-most-ai-projects-fail/)
 - Science project sharks
@@ -335,7 +336,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Not having a data warrior
 - Homegrown talent/software
 - Start simple!
-
+<br><br>
 
 **Why You’re Not Getting Value from Your Data Science** [(link)](https://hbr.org/2016/12/why-youre-not-getting-value-from-your-data-science)
 - the data is a mess.
@@ -345,7 +346,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - machine learning experts often didn’t build their work around the final objective—deriving business value.
 - the machine learning experts wanted to spend their time building models, not processing massive datasets or translating business problems into prediction problems
 - the current technological landscape, both commercial and academic, focuses on enabling more sophisticated models
-
+<br><br>
 
 **Data Science Project Failures** [(link)](https://www.datascience-pm.com/project-failures/)
 - From: **Predicting outcomes for big data projects: Big Data Project Dynamics (BDPD): Research in progress** [(link)](https://www.semanticscholar.org/paper/Predicting-outcomes-for-big-data-projects%3A-Big-Data-Becker/549c6a8b81594ee77ae88b406a1945e0f1fba711)
@@ -377,7 +378,7 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
     - Data security and privacy concerns
     - Resistance opt change within the organisation
 - Ad Hoc and Software Engineering Project Management
-
+<br><br>
 
 **Why do 87% of data science projects never make it into production?** [(link)](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/)
 - throw money at a problem or put a technology in
@@ -386,19 +387,19 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - take those insights, and they flip them over the wall, now you’re asking an engineer to rewrite a data science model created by a data scientist
 - because nobody owned it
 - educate the business leaders across the organization
-
+<br><br>
 
 **How to fail as a data scientist: 3 common mistakes** [(link)](https://www.techrepublic.com/article/how-to-fail-as-a-data-scientist-3-common-mistakes/)
 - Focusing only on the solution
 - Forgetting the basics
 - Ineffectively communicating
-
+<br><br>
 
 **We need to spend more time talking about data science failures** [(link)](https://becominghuman.ai/we-need-to-spend-more-time-talking-about-data-science-failures-4f53040b529e)
 - Lesson 1: Context (there is none)
 - Lesson 2: Correlation not causation
 - Lesson 3: Completeness of data
-
+<br><br>
 
 **Why Data Science Projects Fail** [(link)](https://blog.dataiku.com/why-data-science-projects-fail)
 - Real-Time, Dynamic Data
@@ -407,11 +408,11 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 - Skill Set Disconnect
 - Operationalization
 - Growth
- 
+<br><br> 
  
 **Data Science: 4 Reasons Why Most Are Failing to Deliver** [(link)](https://www.kdnuggets.com/2018/05/data-science-4-reasons-failing-deliver.html)
 - Silos of knowledge
 - Friction in model deployment
 - Tool and technology mismatch
 - Model liability
-
+<br><br>
