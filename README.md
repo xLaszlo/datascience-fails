@@ -6,6 +6,27 @@ If you have an article that should be added, please suggest it with its link in 
 Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 <br><br>
 
+**Categorisation**
+- Organisational
+    - Leadership
+    - Employees
+    - Infrastructure
+- Intermediate
+    - Legal/Privacy/Bias/Security
+    - Transparency/Communication
+- Product Planning
+    - Business Value
+    - Specification
+- Product One-Off
+    - Project Execution
+    - Data
+    - Modelling
+- Product Ongoing
+    - Operations
+    
+After looking through the 300+ failures listed below there is a notable absence of any concern about _domain_ experts and any collaboration with them apart from off-hand mentions regarding labelled data. The reader should take this into account when using the above categorisation. (Laszlo)
+<br><br>
+
 **geckoboard's Data fallacies** [(link)](https://www.geckoboard.com/best-practice/statistical-fallacies/)
 - Cherry Picking
 - Data Dredging
