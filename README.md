@@ -51,29 +51,29 @@ After looking through the 300+ failures listed below there is a notable absence 
     - QA/Test jobs incorrectly communicating with prod backends
     - Faild to provision necessary resources (bandwidth, RAM, CPU)
 - ML vs non-ML categorisation
-- ML
-    - Changes to the distribution of examples
-    - Problems withselection and processing of training data: either sampling wrong, re-visiting the same data, skipping data, etc.
-    - Hyperparameters
-    - Mismatch in embedding interpretation
-    - Training on mislabelled data
-- non-ML
-    - Dependency failure (other than data)
-    - Deployment failure (out of order, wrong target, wrong binaries, etc)
-    - CPU failures
-    - Inefficient data structure
+    - ML
+        - Changes to the distribution of examples
+        - Problems withselection and processing of training data: either sampling wrong, re-visiting the same data, skipping data, etc.
+        - Hyperparameters
+        - Mismatch in embedding interpretation
+        - Training on mislabelled data
+    - non-ML
+        - Dependency failure (other than data)
+        - Deployment failure (out of order, wrong target, wrong binaries, etc)
+        - CPU failures
+        - Inefficient data structure
 - Distributed vs non-distributed categorisation
-- Distributed
-    - System orchestration: which processes to run where
-    - Data joined between two systems fails (e.g.: missing foreign key)
-    - Some resource (e.g. CPU) is unavailable in the quantities we need
-    - Changes pushed in an unsafe order
-- Less distributed
-    - CPU oddities (probabilistically distributed: only happening at huge scales)
-    - Human driven change not tested before being applied to production environment
-- Not distributed
-    - Failes assert(): invariant is not invariant
-    - Bad data structures
+    - Distributed
+        - System orchestration: which processes to run where
+        - Data joined between two systems fails (e.g.: missing foreign key)
+        - Some resource (e.g. CPU) is unavailable in the quantities we need
+        - Changes pushed in an unsafe order
+    - Less distributed
+        - CPU oddities (probabilistically distributed: only happening at huge scales)
+        - Human driven change not tested before being applied to production environment
+    - Not distributed
+        - Failes assert(): invariant is not invariant
+        - Bad data structures
 <br><br>
 
 **geckoboard's Data fallacies** [(link)](https://www.geckoboard.com/best-practice/statistical-fallacies/)
