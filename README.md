@@ -27,6 +27,55 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 After looking through the 300+ failures listed below there is a notable absence of any concern about _domain_ experts and any collaboration with them apart from off-hand mentions regarding labelled data. The reader should take this into account when using the above categorisation. (Laszlo)
 <br><br>
 
+**OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline (Google)** [(link, youtube)](https://www.youtube.com/watch?v=hBMHohkRgAA)
+- Data arriving from multiple sources was joined to provide positive labels, when the data rate increased, joins were delayed and training happened on unjoined data incorrectly defaulted to be negatively labelled.
+- Data source location changed and downstream process didn't have permission to read from the new place.
+- Failure Taxonomy
+    - Process orchestration issues
+    - Overloaded backends
+    - Temporary failure to join with expected data
+    - CPU failures
+    - Cache invalidation bugs
+    - Changse to the distribution of examples taht we are generating inference on
+    - Config changes pushed out of order
+    - Suboptimal data structure used
+    - Challenges assigning work between clusters
+    - Example training strategy resulted in unexpected ordering
+    - ML hyperparameters adjusted on the fly
+    - Configuration change not properly canaried or validated
+    - Client made incorrect assumption about model providing inference
+    - Inference takes too long
+    - Incorrect assert() in code
+    - Labels weren't available/mostly corect at the time the model wished to visit the example
+    - Embeddings interpreted in the wrong embedding-space
+    - QA/Test jobs incorrectly communicating with prod backends
+    - Faild to provision necessary resources (bandwidth, RAM, CPU)
+- ML vs non-ML categorisation
+- ML
+    - Changes to the distribution of examples
+    - Problems withselection and processing of training data: either sampling wrong, re-visiting the same data, skipping data, etc.
+    - Hyperparameters
+    - Mismatch in embedding interpretation
+    - Training on mislabelled data
+- non-ML
+    - Dependency failure (other than data)
+    - Deployment failure (out of order, wrong target, wrong binaries, etc)
+    - CPU failures
+    - Inefficient data structure
+- Distributed vs non-distributed categorisation
+- Distributed
+    - System orchestration: which processes to run where
+    - Data joined between two systems fails (e.g.: missing foreign key)
+    - Some resource (e.g. CPU) is unavailable in the quantities we need
+    - Changes pushed in an unsafe order
+- Less distributed
+    - CPU oddities (probabilistically distributed: only happening at huge scales)
+    - Human driven change not tested before being applied to production environment
+- Not distributed
+    - Failes assert(): invariant is not invariant
+    - Bad data structures
+<br><br>
+
 **geckoboard's Data fallacies** [(link)](https://www.geckoboard.com/best-practice/statistical-fallacies/)
 - Cherry Picking
 - Data Dredging
