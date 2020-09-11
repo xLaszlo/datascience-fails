@@ -27,6 +27,24 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 After looking through the 300+ failures listed below there is a notable absence of any concern about _domain_ experts and any collaboration with them apart from off-hand mentions regarding labelled data. The reader should take this into account when using the above categorisation. (Laszlo)
 <br><br>
 
+**The State of Data Science & Machine Learning 2017** [(link, webarchive)](http://web.archive.org/web/20171031030123/https://www.kaggle.com/surveys/2017)
+- Dirty data
+- Lack of data science talent
+- Lack of management/financialsupport
+- Lack of clear question to answer
+- Data unavailable or difficult toaccess
+- Results not used by decision makers
+- Explaining data science to others
+- Privacy issues
+- Lack of domain expert input
+- Can't afford data science team
+- Multiple ad- hoc environments
+- Limitations of tools
+- Need to coordinate with IT
+- Expectations of project impact
+- Integrating findings into decisions
+<br><br>
+
 **OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline (Google)** [(link, youtube)](https://www.youtube.com/watch?v=hBMHohkRgAA)
 - Data arriving from multiple sources was joined to provide positive labels, when the data rate increased, joins were delayed and training happened on unjoined data incorrectly defaulted to be negatively labelled.
 - Data source location changed and downstream process didn't have permission to read from the new place.
