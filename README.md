@@ -27,9 +27,9 @@ Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 After looking through the 300+ failures listed below there is a notable absence of any concern about _domain_ experts and any collaboration with them apart from off-hand mentions regarding labelled data. The reader should take this into account when using the above categorisation. (Laszlo)
 <br><br>
 
-I created this image on how I imagine communicating this on a signle slide (excuse my design skills, it's a 2x3 table in lucidcharts with the middle row merged).
+I created this image on how I imagine communicating this on a single slide (excuse my design skills, it's a 2x3 table in lucidcharts with the middle row merged).
 <br>
-![](images/DSRisks.png)
+<img src="images/DSRisks.png" width="50%" height="50%">
 <br><br>
 
 **The State of Data Science & Machine Learning 2017** [(link, webarchive)](http://web.archive.org/web/20171031030123/https://www.kaggle.com/surveys/2017)
