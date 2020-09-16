@@ -34,6 +34,15 @@ I created this image on how I imagine communicating this on a single slide (excu
 <img src="images/DSRisks.png" width="50%" height="50%">
 <br><br>
 
+**Top 10 Challenges to Practicing Data Science at Work** [(link)](https://businessoverbroadway.com/2018/03/18/top-10-challenges-to-practicing-data-science-at-work/)
+- Based on doing PCA on the Kaggle 2017 data, see article for details
+    - Insights not Used in Decision Making
+    - Data Privacy, Veracity, Unavailability
+    - Limitations of tools to scale / deploy
+    - Lack of Funds
+    - Wrong Questions Asked
+<br><br>
+
 **The State of Data Science & Machine Learning 2017** [(link, webarchive)](http://web.archive.org/web/20171031030123/https://www.kaggle.com/surveys/2017)
 - Dirty data
 - Lack of data science talent
