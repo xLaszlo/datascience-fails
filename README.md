@@ -3,6 +3,8 @@ Collection of articles listing reasons why data science projects fail.
 
 If you have an article that should be added, please suggest it with its link in the [Issues](https://github.com/xLaszlo/datascience-fails/issues).
 
+I summarised my findings on my blog: [Data Science Risk Categorisation](https://laszlo.substack.com/p/data-science-risk-categorisation)
+
 Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 <br><br>
 
