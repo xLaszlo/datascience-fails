@@ -34,6 +34,19 @@ I created this image on how I imagine communicating this on a single slide (excu
 <img src="images/DSRisks.png" width="50%" height="50%">
 <br><br>
 
+**Why 87% of Machine learning Projects Fail** [(link)](https://hackernoon.com/why-87percent-of-machine-learning-projects-fail-sp343uhj)
+- Not Enough Expertise
+- Disconnect Between Data Science and Traditional Software Development
+- Volume and Quality of Data
+- Labeling of data
+- Organizations are Siloed
+- Lack of collaboration
+- Technically Infeasible Projects
+- Alignment Problem Between Technical and Business Teams
+- Lack of Data Strategy
+- Lack of Leadership support
+<br><br>
+
 **Top 10 Challenges to Practicing Data Science at Work** [(link)](https://businessoverbroadway.com/2018/03/18/top-10-challenges-to-practicing-data-science-at-work/)
 - Based on doing PCA on the Kaggle 2017 data, see article for details
     - Insights not Used in Decision Making
