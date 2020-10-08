@@ -5,6 +5,8 @@ If you have an article that should be added, please suggest it with its link in 
 
 I summarised my findings on my blog: [Data Science Risk Categorisation](https://laszlo.substack.com/p/data-science-risk-categorisation)
 
+I added the post to my new company's ([hypergolic.co.uk](https://hypergolic.co.uk/)) blog as well at : [Data Science Risk Categorisation](https://hypergolic.co.uk/blog/data-science-risk/)
+
 Follow me at [@xLaszlo](https://twitter.com/xLaszlo) on Twitter for updates.
 <br><br>
 
