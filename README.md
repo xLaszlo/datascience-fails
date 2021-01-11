@@ -36,6 +36,59 @@ I created this image on how I imagine communicating this on a single slide (excu
 <img src="images/DSRisks.png" width="50%" height="50%">
 <br><br>
 
+**51 things that can go wrong in a real-world ML project** [(link)](https://medium.com/wrong-ml/51-things-that-can-go-wrong-in-a-real-world-ml-project-c36678065a75)
+01. Vague success metrics of the ML model
+02. Even if we had the perfect model — no clue of how it will be used within existing workflows
+03. Building a 100% accurate model — no clarity on the acceptable trade-offs such as precision versus recall
+04. Using a hammer to kill an ant — not checking the performance of simpler alternatives
+05. Not all ML problems are worth solving — the impact may not be worth the effort
+06. Drowning the business team in technical mumbo jumbo
+07. I thought this dataset attribute means something else
+08. 5 definitions of a business metric
+09. Where is the dataset I need for my model?
+10. The data warehouse is stale
+11. Need to instrument app for more clickstream events — it will take months
+12. Assuming all the datasets have the same quality
+13. Customer changed preference to not use their data for ML. Why are those records still included
+14. Uncoordinated schema changes at the data source
+15. We have lots of data — don't forget data expires?
+16. Systematic data issues making overall dataset bias
+17. Unnoticed sudden distribution changes in the data
+18. Using all the data for training — each model iteration can take days
+19. We are using the best polyglot datastores — but how do I now write queries effectively across this data?
+20. Training versus inference inconsistency
+21. Model accuracy too good to be true — check for feature leakage
+22. Limited Feature value coverage
+23. Flaky pipeline for generating features that are time-dependent
+24. Lack of balance between bias (underfitting) and variance (overfitting)
+25. Compromising interpretability prematurely for performance
+26. Always using deep learning instead of traditional feature engineering
+27. Not applying hashing for sparse features
+28. Not attempting to reduce the dimensionality of models
+29. Ad-hoc tuning is faster compared to a scientific approach
+30. Improper tracking of details related to model versions and experiments
+31. Ignoring the specificity and sparsity trade-off
+32. Prematurely jumping to online experimentation
+33. Not measuring model’s sensitivity to recency
+34. Not paying attention to infrastructure capacity
+35. Evaluating models using different datasets
+36. Reporting model accuracy for the overall data
+37. Training results not reproducible
+38. Long time before first online experiment
+39. Model behaves differently in online experimentation compared to offline validation
+40. Ignoring feedback loops
+41. Making multiple changes within an experiment
+42. Ad-hoc framework to analyze the results of the experiment
+43. No backup plan if the test goes south
+44. Not calibrating the model 
+45. ETL Pipeline SLA was 8 am. It’s now 4 pm and still processing — why is my metrics processing slow today 
+46. Metrics processing pipelines completed successfully but results are wrong?
+47. Response time to generate an inference is too high
+48. Data quality issues at source, or ingestion into the lake, or ETL processing
+49. Cloud costs jumped up 3X this month
+50. Model has not been re-trained for 3 months — it was supposed to happen weekly
+51. No checks and bounds for data and concept drift
+
 **Why 87% of Machine learning Projects Fail** [(link)](https://hackernoon.com/why-87percent-of-machine-learning-projects-fail-sp343uhj)
 - Not Enough Expertise
 - Disconnect Between Data Science and Traditional Software Development
