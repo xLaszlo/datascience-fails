@@ -36,8 +36,8 @@ I created this image on how I imagine communicating this on a single slide (excu
 <img src="images/DSRisks.png" width="50%" height="50%">
 <br><br>
 
-**David Dao's Awful AI** [(link)](https://github.com/daviddao/awful-ai)
-- Not fails but still to be avoided.
+**David Dao's collection of Awful AI on GitHub** [(link)](https://github.com/daviddao/awful-ai)
+- Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society.
 
 **51 things that can go wrong in a real-world ML project** [(link)](https://medium.com/wrong-ml/51-things-that-can-go-wrong-in-a-real-world-ml-project-c36678065a75)
 01. Vague success metrics of the ML model
