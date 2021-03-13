@@ -591,3 +591,12 @@ I created this image on how I imagine communicating this on a single slide (excu
 - Tool and technology mismatch
 - Model liability
 <br><br>
+
+**Why so many Data Science projects fail to deliver** [(link)](https://sloanreview.mit.edu/article/why-so-many-data-science-projects-fail-to-deliver/)
+- Mistake 1: The Hammer in Search of a Nail
+- Mistake 2: Unrecognized Sources of Bias
+- Mistake 3: Right Solution, Wrong Time
+- Mistake 4: Right Tool, Wrong User
+- Mistake 5: The Rocky Last Mile
+
+<br><br>
